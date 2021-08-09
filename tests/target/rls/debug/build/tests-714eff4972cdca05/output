@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=../contract/Cargo.toml
+cargo:rerun-if-changed=../contract/src/main.rs

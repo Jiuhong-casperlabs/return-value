@@ -1,0 +1,11 @@
+/home/jiuhong/rust/erc20/my-project/tests/target/rls/debug/deps/generic_array-70dec43846c2abe8.rmeta: /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/home/jiuhong/rust/erc20/my-project/tests/target/rls/debug/deps/generic_array-70dec43846c2abe8.d: /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs /home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs
+
+/home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/lib.rs:
+/home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/hex.rs:
+/home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/impls.rs:
+/home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/arr.rs:
+/home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/functional.rs:
+/home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/iter.rs:
+/home/jiuhong/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.4/src/sequence.rs:
